@@ -1,0 +1,29 @@
+{
+  "name": "random-messages-sebas-pedroza",
+  "version": "1.0.1",
+  "description": "random messages",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Sebastian-Pedroza <sebaspedroza.developer@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-sebas-pedroza-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebas-pedroza/random-sebas-pedroza-msg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sebas-pedroza/random-sebas-pedroza-msg/issues"
+  },
+  "homepage": "https://github.com/sebas-pedroza/random-sebas-pedroza-msg#readme"
+}
